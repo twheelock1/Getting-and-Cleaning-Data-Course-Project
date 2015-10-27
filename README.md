@@ -12,3 +12,4 @@ This repositry contains the code used to clean and tidy the data supplied for th
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The output is stored in the file 'averages_data.txt'.
+
