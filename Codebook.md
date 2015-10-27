@@ -96,3 +96,4 @@ This codebook describes the data output by 'run_analysis.R' that is stored in 'a
 "fBodyBodyGyroJerkMag-mean()" 
 "fBodyBodyGyroJerkMag-std()" 
 "fBodyBodyGyroJerkMag-meanFreq()"
+
